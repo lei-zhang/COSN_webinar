@@ -4,12 +4,10 @@ data{
 
 
 parameters {
-    
-    
+
 }
 
 
 model{
-    
-    
+
 }
