@@ -1,4 +1,6 @@
-Short reinforcement learning tutorial given at the Open Science Webiniar series (10 April 2020).
+Short reinforcement learning tutorial given at the Chinese Open Science Webinar series (10 April 2020).
+This repository includes the slides and the code demo. 
+The recording can be found on YouTube (in Chinese): youtu.be/ss30ch9IZnw.
 
 ___
 
