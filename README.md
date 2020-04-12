@@ -1,6 +1,6 @@
 Short reinforcement learning tutorial given at the Chinese Open Science Webinar series (10 April 2020).
 This repository includes the slides and the code demo. 
-The recording can be found on YouTube (in Chinese): youtu.be/ss30ch9IZnw.
+The recording can be found on YouTube (in Chinese): youtu.be/ss30ch9IZnw. If you are watching from China, the recording is also available on Bilibili: https://www.bilibili.com/video/BV135411t7f3. 
 
 ___
 
