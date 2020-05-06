@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586518390112.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "85EC1DC8",
+    "lastKnownWriteTime" : 1586518109,
+    "last_content_update" : 1586518109,
+    "path" : "E:/my_paper/code_materials/RL_tutorial_webinar/code/rw.stan",
+    "project_path" : "rw.stan",
+    "properties" : {
+        "cursorPosition" : "23,5",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "stan"
+}

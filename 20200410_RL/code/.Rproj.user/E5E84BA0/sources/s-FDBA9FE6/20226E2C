@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586517840907.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "20226E2C",
+    "lastKnownWriteTime" : 1586518305,
+    "last_content_update" : 1586518305083,
+    "path" : "E:/my_paper/code_materials/RL_tutorial_webinar/code/reinforcement_learning.R",
+    "project_path" : "reinforcement_learning.R",
+    "properties" : {
+        "cursorPosition" : "46,31",
+        "scrollLine" : "39"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

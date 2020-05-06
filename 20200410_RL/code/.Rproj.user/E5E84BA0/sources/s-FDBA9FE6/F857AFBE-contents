@@ -1,0 +1,17 @@
+data{
+    int nTrials;
+    int<lower=1,upper=2> choice[nTrials];
+    int<lower=-1,upper=1> reward[nTrials];
+}
+
+
+parameters {
+    
+    
+}
+
+
+model{
+    
+    
+}
