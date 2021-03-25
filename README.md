@@ -1,4 +1,6 @@
-Tutorials, primers, and mini intros given at the [Chinese Open Science Network](https://open-sci.cn/) Webinar series. <br\>
+# Chinese Open Science Network (COSN) <img src="https://github.com/lei-zhang/OS_tutorial_webinar/raw/master/COSN.PNG" align="right" width="300px">
+
+**Tutorials, primers, and mini intros given at the [Chinese Open Science Network](https://open-sci.cn/) Webinar series.** <br />
 Talks were given in Chinese, yet slides decks were in English.
 
  - Reinforcement learning (10 Apr. 2020); recording can be found on [YouTube](https://youtu.be/ss30ch9IZnw) or [bilibili](https://www.bilibili.com/video/BV135411t7f3).
